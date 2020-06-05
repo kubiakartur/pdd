@@ -1,0 +1,112 @@
+{
+	"item1":{
+			"nazwa": "temp1",
+			"kod": "70-700",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op1", "op2"],
+			"ocena": "4",
+			"zdjecie": "zdjecie1"
+			},
+	"item2":{
+			"nazwa": "temp2",
+			"kod": "70-701",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op2", "op3"],
+			"ocena": "5",
+			"zdjecie": "zdjecie2"
+			},
+	"item3":{
+			"nazwa": "temp3",
+			"kod": "70-703",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op2", "op4"],
+			"ocena": "2",
+			"zdjecie": "zdjecie3"
+			},
+	"item4":{
+			"nazwa": "temp4",
+			"kod": "70-704",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op1", "op3"],
+			"ocena": "1",
+			"zdjecie": "zdjecie4"
+			},
+	"item5":{
+			"nazwa": "temp5",
+			"kod": "70-705",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op2", "op5"],
+			"ocena": "5",
+			"zdjecie": "zdjecie5"
+			},
+	"item6":{
+			"nazwa": "temp6",
+			"kod": "70-706",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op3", "op4"],
+			"ocena": "3",
+			"zdjecie": "zdjecie6"
+			},
+	"item7":{
+			"nazwa": "temp7",
+			"kod": "70-707",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op4", "op5"],
+			"ocena": "4",
+			"zdjecie": "zdjecie7"
+			},
+	"item8":{
+			"nazwa": "temp8",
+			"kod": "70-708",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op1", "op4"],
+			"ocena": "1",
+			"zdjecie": "zdjecie8"
+			},
+	"item9":{
+			"nazwa": "temp9",
+			"kod": "70-709",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op1", "op5"],
+			"ocena": "2",
+			"zdjecie": "zdjecie9"
+			},
+	"item10":{
+			"nazwa": "temp10",
+			"kod": "70-710",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "26.25",
+			"kategoria": ":)",
+			"opcjaTowaru": ["op4", "op5"],
+			"ocena": "4",
+			"zdjecie": "zdjecie10"
+			}
+}
